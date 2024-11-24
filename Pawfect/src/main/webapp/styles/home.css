@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body{
+	display: flex;
+	flex-direction: column;
+}
+
+p{
+	padding-left:20vh;
+	padding-right:20vh;
+	padding-top:7.5vh;
+	font-size:2.15vh;
+}
