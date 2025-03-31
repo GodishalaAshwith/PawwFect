@@ -1,4 +1,4 @@
-Project: PetConnect - A Pet Marketplace Website  
+Project: PawwFect - A Pet Marketplace Website  
 
 About the Project
 PetConnect is a user-friendly web application designed to simplify the buying, selling, and rehoming of pets. Built using JSP, Java, Servlets, JDBC, MySQL, and CSS, this project provides a seamless platform for pet enthusiasts and compassionate individuals looking to find loving homes for animals.  
